@@ -1,0 +1,9 @@
+/Users/boberin21/Downloads/Erin_Website/Erin_Website/bin/Debug/netstandard2.0/Erin_Website.deps.json
+/Users/boberin21/Downloads/Erin_Website/Erin_Website/bin/Debug/netstandard2.0/Erin_Website.dll
+/Users/boberin21/Downloads/Erin_Website/Erin_Website/bin/Debug/netstandard2.0/Erin_Website.pdb
+/Users/boberin21/Downloads/Erin_Website/Erin_Website/obj/Debug/netstandard2.0/Erin_Website.csprojAssemblyReference.cache
+/Users/boberin21/Downloads/Erin_Website/Erin_Website/obj/Debug/netstandard2.0/Erin_Website.csproj.CoreCompileInputs.cache
+/Users/boberin21/Downloads/Erin_Website/Erin_Website/obj/Debug/netstandard2.0/Erin_Website.AssemblyInfoInputs.cache
+/Users/boberin21/Downloads/Erin_Website/Erin_Website/obj/Debug/netstandard2.0/Erin_Website.AssemblyInfo.cs
+/Users/boberin21/Downloads/Erin_Website/Erin_Website/obj/Debug/netstandard2.0/Erin_Website.dll
+/Users/boberin21/Downloads/Erin_Website/Erin_Website/obj/Debug/netstandard2.0/Erin_Website.pdb
